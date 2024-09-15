@@ -30,7 +30,7 @@ The initial inspiration for this project comes from the [export-kobo-to-notion](
 - PowerShell 5.1 or later
 - Notion API token (you need to register your own Notion API Integration)
 - Kobo database file (typically `KoboReader.sqlite`)
-- Notion dataabse setup with the following fields: Title(text), Author(text), Publisher(text), Synced(checkbox), Highlight Count(number), Sync Date(date), and ISBN(text).
+- Notion database setup with the following fields: Title(text), Author(text), Publisher(text), Synced(checkbox), Highlight Count(number), Sync Date(date), and ISBN(text).
   
 ## Installation and Usage
 
