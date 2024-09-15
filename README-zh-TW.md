@@ -2,7 +2,7 @@
 
 ![kobo2notion](./blob/kobo2notion-logo.png)
 
-*此圖片由 DALL·E 生成，用以展示 Kobo2Notion 專案，圖中顯示 Kobo eReader 和 Notion 資料庫的整合過程。*
+*此圖片由 DALL·E 生成。*
 
 `kobo2notion` 是一個將 Kobo 電子書閱讀器上的 highlight 標記自動匯出至 Notion 資料庫的工具。這個專案包含 Windows Batch 檔案、PowerShell 腳本以及一個簡單的設定檔，讓使用者可以輕鬆整合他們的閱讀資料。
 

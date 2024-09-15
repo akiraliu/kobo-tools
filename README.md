@@ -2,7 +2,7 @@
 
 ![kobo2notion](./blob/kobo2notion-logo.png)
 
-*Image generated using DALL·E to represent the Kobo2Notion project, illustrating the integration of Kobo eReader and Notion database.*
+*Image generated using DALL·E.*
 
 `kobo2notion` is a tool that automatically exports highlights from a Kobo eReader to a Notion database. This project includes a Windows batch file, a PowerShell script, and a simple configuration file to allow users to integrate their reading data with ease.
 
