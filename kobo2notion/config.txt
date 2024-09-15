@@ -1,0 +1,3 @@
+notionToken=your_notion_token_here
+notionDatabaseId=your_notion_database_id_here
+koboDatabasePath=C:\path\to\your\KoboReader.sqlite
