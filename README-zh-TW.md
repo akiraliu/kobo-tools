@@ -86,6 +86,8 @@ kobo2notion.bat
 
 ![kobo2notion-demo-notion](./blob/kobo2notion-demo-notion.png)
 
+![kobo2notion-demo-notion-highlight](./blob/kobo2notion-demo-notion-highlight.png)
+
 ## 授權
 
 此專案採用 MIT 授權。詳情請參閱 [LICENSE](./LICENSE) 文件。

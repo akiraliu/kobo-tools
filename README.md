@@ -86,6 +86,8 @@ After execution, the Kobo highlights will be automatically updated in the specif
 
 ![kobo2notion-demo-notion](./blob/kobo2notion-demo-notion.png)
 
+![kobo2notion-demo-notion-highlight](./blob/kobo2notion-demo-notion-highlight.png)
+
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](./LICENSE) file.
